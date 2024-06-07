@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "image": "../images/details_1.jpg",
+    "productNew": "Новинка",
+    "title": "Видеокарта Palit NVIDIA GeForce GTX 1050TI PA-GTX1050Ti StormX",
+    "price": "19 090₽",
+    "link": "product.html?productId=0",
+    "rate": 8,
+    "comments": [
+      {
+        "id": "3a85750d79da9",
+        "email": "serg123@sadfsdf.tu",
+        "text": "Видеокарта Palit NVIDIA",
+        "date": "2024-05-27T07:49:56.176Z"
+      },
+      {
+        "id": "fcc8273c11017",
+        "email": "qweqwr@mail.ru",
+        "text": "Охлаждение: активное; с радиатором;",
+        "date": "2024-05-27T08:03:50.471Z"
+      },
+      {
+        "id": "7085752cfdd64",
+        "email": "asdfasdf@sadfsdf.tu",
+        "text": "Видеочипсет: NVIDIA GeForce GTX",
+        "date": "2024-05-27T08:14:03.124Z"
+      }
+    ],
+    "rating": "6"
+  },
+  {
+    "id": 1,
+    "image": "../images/Proc1.jpg",
+    "productNew": "Скидка",
+    "title": "Процессор AMD Ryzen 5 5600G OEM",
+    "price": "11 999₽",
+    "link": "product1.html?productId=1",
+    "rate": 8,
+    "comments": [
+      {
+        "id": "f3758b288def2",
+        "email": "roman512@sadfsdf.tu",
+        "text": "Прекрасный процессор",
+        "date": "2024-05-27T07:50:55.744Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "../images/oper1.jpg",
+    "productNew": "Скидка",
+    "title": "Оперативная память Kingston FURY Beast Black [KF432C16BBK2/16] 16 ГБ",
+    "price": "4 699 ₽",
+    "link": "product2.html?productId=2",
+    "rate": 10,
+    "comments": [
+      {
+        "id": "49b789008e27c",
+        "email": "tomas777@sadfsdf.tu",
+        "text": "Классная ОЗУ",
+        "date": "2024-05-27T07:51:33.715Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1716796831465,
+    "name": "Kristina",
+    "lastName": "Kristina",
+    "email": "krist345werrwebdev@gmail.com",
+    "password": "krist345rwebdevwe",
+    "comments": [
+      {
+        "id": "1a33ca75b2db5",
+        "text": "Первый комментарий",
+        "date": "2024-05-27T08:00:31.465Z"
+      }
+    ]
+  },
+  {
+    "id": 1717749796296,
+    "name": "agasdfasdfasdf",
+    "lastName": "Kristina",
+    "email": "krist345rwebdev@gmail.com",
+    "password": "krist345rwebdev",
+    "comments": [
+      {
+        "id": "d38fdd29cf7e3",
+        "text": "Первый комментарий",
+        "date": "2024-06-07T08:43:16.296Z"
+      }
+    ]
+  }
+]
